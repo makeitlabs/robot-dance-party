@@ -3,6 +3,9 @@
 #include <Bot_Remote.h>
 #include <Bot_RemoteType.h>
 
+// Requires _2020Bot_Library and TimerOne
+// Both are installable via the Arduino Library Manager.
+
 Bot_IR ir;
 
 // Arduino standard LED
