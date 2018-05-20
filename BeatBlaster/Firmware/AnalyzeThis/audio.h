@@ -1,5 +1,14 @@
 // Interface with MSGEQ7 chip for audio analysis
 
+//   Initially derived from https://github.com/macetech/RGBShadesAudio
+//   and then modified
+
+//   RGB Shades Audio Demo Code - REQUIRES MSGEQ7 AUDIO SENSOR
+//   Copyright (c) 2015 macetech LLC
+//   This software is provided under the MIT License (see license.txt)
+//   Special credit to Mark Kriegsman for XY mapping code
+
+
 #define AUDIODELAY 8
 
 // Pin definitions
